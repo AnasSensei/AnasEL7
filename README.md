@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anas EL
 - 👀 I’m interested in Coding  
-- 🌱 I’m currently learning programmaing language 
+- I'm currently learning programming language.
 - 💞️ I’m looking to collaborate on projects. In private for me informations.
 - 📫 How to reach me : On Discord => Anas_S#4665
 
