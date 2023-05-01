@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding  
 - I'm currently learning programming language.
 - 💞️ I’m looking to collaborate on projects. In private for me informations.
-- 📫 How to reach me : On Discord => Anas_S#4665
+- 📫 How to reach me : On Discord => Anas_Sensei#4665
 
 <!---
 AnasEL7/AnasEL7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
